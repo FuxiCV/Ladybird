@@ -5,4 +5,4 @@ Ladybird: Quasi-Monte Carlo Sampling for Deep Implicit Field Based 3D Reconstruc
 
 ECCV 2020 Oral
 
-CODE will be released soon!
+![demo](https://github.com/FuxiCV/Ladybird/blob/master/imgs/demo.jpg)
